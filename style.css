@@ -1,0 +1,15 @@
+canvas {
+    width: 600px;
+    height: 400px;
+    background-color: black;
+    
+    
+    margin-left:32.5em;
+    margin-top: 19em;
+
+}
+#back {
+    height: 1000px;
+    background-image: url('img/maxresdefault.jpg');
+    background-size: cover;
+}
